@@ -21,6 +21,8 @@ point1.draw()
 # we can also define attributes, that are like variables
 # to our objects
 # we can also use constructor to initialize attributes of obj
+#
+In Python, __init__ is a special method known as the constructor. It is automatically called when a new instance (object) of a class is created.
 point1.x = 10
 point1.y = 20
 print(point1.x)
